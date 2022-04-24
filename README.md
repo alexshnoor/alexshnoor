@@ -37,7 +37,7 @@
 
     
 - 🔭 I’m <a href="https://alexandrverevkin.com?utm_source=github.com%2Falexsnoor&utm_medium=github+profile&utm_campaign=github-unicorn_witnesses&utm_id=272094394&utm_term=table&utm_content=soft_developer" target="_blank">Aleksandr Verevkin developer<a/> support 🦄 <a href="https://unicornwitnesses.com" target="_blank">unicornwitnesses.com<a/> and env- healthcare tech 🔉 <a href="https://muteit.app?utm_content=githubtext&utm_medium=social&utm_source=github.com" target="_blank">muteit.app<a/>
-- 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">UNICORN WITNESSES COMMUNITY DISCORD<a/> about working with <a href="https://unicornwitnesses.com?utm_content=githubtextdiscord&utm_medium=social&utm_source=github.com" target="_blank">unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="https://t.me/unicornwitnesses"> We in Telegram</a>
+- 👯 I’m looking to collaborate on <a href="https://discord.gg/hKQc8SX9zP" target="_blank">UNICORN WITNESSES COMMUNITY DISCORD<a/> about working with <a href="https://unicornwitnesses.com?utm_content=githubtextdiscord&utm_medium=social&utm_source=github.com" target="_blank">unicornwitnesses.com<a/>. If you want to join, write to us <a target="_blank" href="https://t.me/unicornwitnesses">in Telegram</a>
 - 🤔 **COMMUNITY OF TEAMMATES LOOKING FOR HELP** with <a style="color:red">**SOCIALLY**</a> <span style="color:blue">**RELEVANCE**</span> <span style="color:green">**DIGITAL**</span> <span style="color:purple">**PRODUCT**</span> 
 
 
