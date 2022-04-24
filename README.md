@@ -63,8 +63,8 @@
       <a/>
     </td>
     <td>
-      <a href="https://github.com/alexshnoor/muteit.web" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexshnoor&repo=https://github.com/alexshnoor/muteit.web&theme=github_dark&hide_border=true" alt="alexsnoor Language usage time">
+      <a href="https://github.com/alexsnoor/my_tasks" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsnoor&repo=alexandrverevkin.com&theme=github_dark&hide_border=true" alt="alexsnoor Language usage time">
       <a/>
     </td>
    </tr>
