@@ -45,26 +45,26 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
-      <a href="https://alexandrverevkin.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=alexshnoor&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="alexsnoor github stats">
+      <a href="https://github.com/Muteit/muteit.web" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=alexshnoor&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="alexshnoor github stats">
       <a/>
     </td>
     <td>
-      <a href="https://alexandrverevkin.com" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshnoor&theme=github_dark&layout=compact&hide_border=true" alt="alexsnoor language stats">
+      <a href="https://github.com/Muteit/muteit.web" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexshnoor&theme=github_dark&layout=compact&hide_border=true" alt="alexshnoor language stats">
       <a/>
     </td>
    </tr>
   <tr>
   <tr>
     <td>
-      <a href="https://alexandrverevkin.com" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=alexshnoor&theme=tokyonight_duo&hide_border=true" alt="alexsnoor streak stats">
+      <a href="https://github.com/Muteit/muteit.web" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=alexshnoor&theme=tokyonight_duo&hide_border=true" alt="alexshnoor streak stats">
       <a/>
     </td>
     <td>
-      <a href="https://github.com/alexsnoor/my_tasks" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsnoor&repo=alexandrverevkin.com&theme=github_dark&hide_border=true" alt="alexsnoor Language usage time">
+      <a href="https://github.com/Muteit/muteit.web" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexsnoor&repo=alexandrverevkin.com&theme=github_dark&hide_border=true" alt="alexshnoor Language usage time">
       <a/>
     </td>
    </tr>
